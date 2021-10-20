@@ -32,4 +32,4 @@ client.on('ready', () => {
 });
 
 
-client.login('ODk5NzUxNzk0NzI3NTg3ODcw.YW3VKA.8aRnMAwyZBBZvzXLpLyRNtrtRMc');
+client.login('ODk5NzUxNzk0NzI3NTg3ODcw.YW3VKA.djlagBoWy6o2KXNxW4KoOWy9hdU');
